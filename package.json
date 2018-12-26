@@ -1,0 +1,19 @@
+{
+  "name": "async_storage",
+  "version": "0.0.0",
+  "description": "async_storage api",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vdeturckheim/async_storage.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/vdeturckheim/async_storage/issues"
+  },
+  "homepage": "https://github.com/vdeturckheim/async_storage#readme"
+}
